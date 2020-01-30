@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.549b3011.chunk.css",
+    "main.js": "/static/js/main.34beb830.chunk.js",
+    "main.js.map": "/static/js/main.34beb830.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97e782ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97e782ed.js.map",
+    "static/js/2.8315f2cf.chunk.js": "/static/js/2.8315f2cf.chunk.js",
+    "static/js/2.8315f2cf.chunk.js.map": "/static/js/2.8315f2cf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f89d51ee2236a69fcfbbbeb45b7f0646.js": "/precache-manifest.f89d51ee2236a69fcfbbbeb45b7f0646.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.549b3011.chunk.css.map": "/static/css/main.549b3011.chunk.css.map",
+    "static/js/2.8315f2cf.chunk.js.LICENSE": "/static/js/2.8315f2cf.chunk.js.LICENSE",
+    "static/media/LogoHeader.module.scss": "/static/media/keepcalm-medium-webfont.093627dd.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e782ed.js",
+    "static/js/2.8315f2cf.chunk.js",
+    "static/css/main.549b3011.chunk.css",
+    "static/js/main.34beb830.chunk.js"
+  ]
+}
